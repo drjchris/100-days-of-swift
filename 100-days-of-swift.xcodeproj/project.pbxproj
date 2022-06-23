@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		82A25EC028649CAD0094A18D /* 100-days-of-swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "100-days-of-swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		82A25EC328649CAD0094A18D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		82A25ECB28649FDC0094A18D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +42,8 @@
 		82A25EB728649CAD0094A18D = {
 			isa = PBXGroup;
 			children = (
-				82A25EC228649CAD0094A18D /* 100-days-of-swift */,
+				82A25ECB28649FDC0094A18D /* README.md */,
+				82A25EC228649CAD0094A18D /* Day-1 */,
 				82A25EC128649CAD0094A18D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +56,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		82A25EC228649CAD0094A18D /* 100-days-of-swift */ = {
+		82A25EC228649CAD0094A18D /* Day-1 */ = {
 			isa = PBXGroup;
 			children = (
 				82A25EC328649CAD0094A18D /* main.swift */,
 			);
-			path = "100-days-of-swift";
+			path = "Day-1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

@@ -5,9 +5,8 @@
 //  Created by Jose Christian on 23/06/2022.
 //
 
-// DAY 1 - Counting Values and making a DataFrame
+// DAY 1 - Counting Values and making a DataFrame and adding a column
 
-import Cocoa
 import TabularData
 import Foundation
 
