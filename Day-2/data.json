@@ -1,14 +1,14 @@
-{
-  "profile0": {
+[
+  {
     "name": "Luke",
     "surname": "Skywalker",
     "age": 21,
     "occupation": "Jedi Knight"
   },
-  "profile1": {
+  {
     "name": "Darth",
     "surname": "Vader",
     "age": 44,
     "occupation": "Emperor's man servant"
   }
-}
+]
