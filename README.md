@@ -23,3 +23,11 @@
 - Split strings
 - Put data into structures
 - Reformat strings for output
+
+---
+
+## Day 4 - DataFrames
+
+- Open local csv file as dataframe
+- calculate new column and append to dataframe
+- save dataframe to local csv file
